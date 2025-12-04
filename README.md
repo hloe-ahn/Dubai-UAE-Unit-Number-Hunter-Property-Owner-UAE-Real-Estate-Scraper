@@ -22,7 +22,7 @@
 
 <p align="center" style="font-weight:600; margin-top:8px; margin-bottom:8px;">
   Created by Bitbash, built to showcase our approach to Scraping and Automation!<br>
-  If you are looking for <strong>Linkedin Profile Details Batch Scraper + EMAIL (No Cookies)</strong> you've just found your team — Let's Chat. 👆👆
+  If you are looking for <strong>UAE Real Estate Scraper</strong> you've just found your team — Let's Chat. 👆👆
 </p>
 
 ## Introduction
